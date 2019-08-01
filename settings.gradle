@@ -1,0 +1,4 @@
+rootProject.name = 'mudchobo-examples'
+
+include 'master-slave-transactional'
+include 'multiple-database'
